@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/text dialogue/textFile.txt">
+    <Files>
+      <File FileName="Assets/WASD.cs" Line="42" Column="4" />
+      <File FileName="Assets/TextImporter.cs" Line="1" Column="1" />
+      <File FileName="Assets/TextBoxManager.cs" Line="69" Column="21" />
+      <File FileName="Assets/text dialogue/textFile.txt" Line="8" Column="8" />
+      <File FileName="Assets/text dialogue/npc1.txt" Line="4" Column="35" />
+      <File FileName="Assets/ActivateTextAtLine.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Flanagan/IntroDevProject/Assets/PlayerControls.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

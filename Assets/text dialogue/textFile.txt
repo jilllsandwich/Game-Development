@@ -1,0 +1,8 @@
+Hey! Press Enter!
+Nice job, now then you've got some work to do
+your 6 friends have been scattered due to a recent storm,
+and you seem to be the only one left around here.
+Better get to finding them then!
+To move, use A and D
+To Jump, use W
+Begin your journey!
